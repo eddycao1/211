@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2.1（1</string>
+
+    <string-array name="spinner">
+    <item>Meter</item>
+    <item>Celsius</item>
+    <item>Kilograms</item>
+    </string-array>
+</resources>
